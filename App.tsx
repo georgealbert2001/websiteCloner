@@ -4,7 +4,7 @@ import { URLInputForm } from './components/URLInputForm';
 import { OutputPanel } from './components/OutputPanel';
 import { cloneWebsite } from './services/geminiService';
 import type { Tab } from './types';
-import { GithubIcon, SunIcon, MoonIcon } from './components/icons';
+import { GithubIcon, SunIcon, MoonIcon } from './components/icons/index';
 
 type Theme = 'light' | 'dark';
 
