@@ -1,0 +1,6 @@
+{
+  "name": "AI Website Cloner",
+  "description": "An AI-powered tool that takes a URL, analyzes its structure and styling, and generates a corresponding React component using Tailwind CSS.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
